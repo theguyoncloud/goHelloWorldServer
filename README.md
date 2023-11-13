@@ -1,5 +1,5 @@
 # HelloWorldGoServer
-GO + Docker + unit tests
+GO + Docker + unit tests on yps account in harness.
 
 
 ## Running the app locally
